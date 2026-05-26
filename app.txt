@@ -12,3 +12,5 @@ Waw ternyata saya sudah mencapai di editan atau perubahan kelima, saya mulai ter
 Ini merupakan pengalaman yang luar biasa, alhamdulillah saya bisa sampai ditik ini
 #ini adalah editan ketujuh
 Ini merupakan percobaan git diff
+############################################
+Sekarang mulai masuk ke pelajarn Pull
