@@ -10,3 +10,5 @@ Hai ternyata konsisten itu berat namun aku bisa kok, yang terpenting menjauhi ma
 Waw ternyata saya sudah mencapai di editan atau perubahan kelima, saya mulai terbiasa, namun saya tidak boleh lengah karena meskipun saat ini saya sudah lancar belum tentu 2 minggu kedepan masih ingat karena kuncinya adlaah di repetation
 #ini adalah editan keenam
 Ini merupakan pengalaman yang luar biasa, alhamdulillah saya bisa sampai ditik ini
+#ini adalah editan ketujuh
+Ini merupakan percobaan git diff
