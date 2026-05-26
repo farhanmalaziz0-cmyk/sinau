@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f6f8;
+  color: #222;
+}
+
+nav {
+  background: #1f2937;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.hero {
+  padding: 50px 30px;
+  text-align: center;
+  background: #e5e7eb;
+}
+
+.stats {
+  display: flex;
+  gap: 20px;
+  padding: 30px;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  flex: 1;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.services, .employees {
+  background: white;
+  margin: 30px;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+th {
+  background: #1f2937;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #1f2937;
+  color: white;
+}
+
+.dark {
+  background: #111827;
+  color: white;
+}
+
+.dark .card,
+.dark .services,
+.dark .employees {
+  background: #1f2937;
+  color: white;
+}
+
+.dark .hero {
+  background: #374151;
+}
