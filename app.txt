@@ -14,3 +14,5 @@ Ini merupakan pengalaman yang luar biasa, alhamdulillah saya bisa sampai ditik i
 Ini merupakan percobaan git diff
 ############################################
 Sekarang mulai masuk ke pelajarn Pull
+#ini adalah editan ke 10 sebenarnya
+Wow ternyata berpuasa menjadikan aku benar-benar fokus sehingga aku bisa lebih produktif tanpa disadari
